@@ -1,5 +1,5 @@
 #      Designer Manual
-###### Manual Version 1.3 | Designer Plugin Version 0.3.0 | Unreal Engine Version 4.19
+###### Manual Version **1.3** | Designer Plugin Version **0.3.1** | Unreal Engine Version **4.23**
 
 
 
@@ -35,7 +35,7 @@ Engine Plugin
 /UE4 Root/Engine/Plugins/
 ```
 
-​Pasting the Designer folder inside the Project plugins directory will expose this plugin only to the specified project.
+Pasting the Designer folder inside the Project plugins directory will expose this plugin only to the specified project.
 
 ```
 Project Plugin
