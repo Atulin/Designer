@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "0.3.1",
+	"VersionName": "0.3.3",
 	"FriendlyName": "Designer",
 	"Description": "Easy to use level design tools.",
 	"Category": "Editor Modes",
@@ -9,7 +9,7 @@
 	"CreatedByURL": "www.roelbartstra.com/",
 	"DocsURL": "www.unrealengineer.com/designer-manual",
 	"MarketplaceURL": "",
-	"SupportURL": "www.unrealengineer.com/designer",
+	"SupportURL": "https://github.com/RoelBartstra/Designer/issues",
 	"CanContainContent": true,
 	"IsBetaVersion": true,
 	"Installed": false,
