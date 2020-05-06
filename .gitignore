@@ -4,6 +4,9 @@
 # Visual Studio 2015 database file
 *.VC.db
 
+# CLion config
+.idea/
+
 # Compiled Object files
 *.slo
 *.lo
