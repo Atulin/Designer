@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Rider files
+.idea/
+
 # Visual Studio 2015 database file
 *.VC.db
 
@@ -73,3 +76,6 @@ Build/*/**
 
 # Cache files for the editor to use
 **/DerivedDataCache/*
+
+# Releases
+*.zip
